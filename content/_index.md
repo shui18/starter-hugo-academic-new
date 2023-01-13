@@ -39,7 +39,7 @@ sections:
           location: Nanjing
           date_start: '2019-06'
           date_end: '2021-08'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
