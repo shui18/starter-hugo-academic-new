@@ -47,12 +47,7 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: ''
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
