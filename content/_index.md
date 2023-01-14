@@ -40,6 +40,14 @@ sections:
           date_start: '2019-06-01'
           date_end: '2021-08-01'
           description: ''
+        - title: Associate Professor
+          company: Nanjing University of Finance and Economics
+          company_url: ''
+          company_logo: org-x
+          location: Nanjing
+          date_start: '2019-06-01'
+          date_end: '2021-08-01'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
