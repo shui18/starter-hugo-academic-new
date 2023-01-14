@@ -27,7 +27,7 @@ sections:
         - title: Associate Professor
           company: Nanjing Audit University
           company_url: ''
-          company_logo: org-NAU
+          company_logo: ''
           location: Nanjing
           date_start: '2021-09-01'
           date_end: ''
@@ -35,7 +35,7 @@ sections:
         - title: Associate Professor
           company: Nanjing University of Finance and Economics
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Nanjing
           date_start: '2019-06-01'
           date_end: '2021-08-01'
@@ -43,7 +43,7 @@ sections:
         - title: Associate Professor
           company: Nanjing University of Finance and Economics
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Nanjing
           date_start: '2019-06-01'
           date_end: '2021-08-01'
