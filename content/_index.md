@@ -27,7 +27,7 @@ sections:
         - title: Associate Professor
           company: Nanjing Audit University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-NAU
           location: Nanjing
           date_start: '2021-09-01'
           date_end: ''
