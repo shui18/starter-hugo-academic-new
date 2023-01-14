@@ -32,13 +32,13 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: ''
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Associate Professor
+          company: Nanjing University of Finance and Economics
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Nanjing
+          date_start: '2019-06-01'
+          date_end: '2021-08-01'
           description: ''
     design:
       columns: '2'
