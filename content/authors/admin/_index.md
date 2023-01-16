@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ting Fu 付婷
+title: Ting Fu
 
 # Full name (for SEO)
 first_name: Ting
