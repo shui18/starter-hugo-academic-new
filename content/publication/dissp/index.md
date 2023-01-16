@@ -2,7 +2,8 @@
 title: "A dissipation-preserving scheme for damped oscillatory Hamiltonian systems based on splitting"
 authors:
 - Kai Liu
-- admin and Wei Shi
+- admin 
+- Wei Shi
 date: "2021-12-01T00:00:00Z"
 doi: "10.1016/j.apnum.2021.08.001"
 
