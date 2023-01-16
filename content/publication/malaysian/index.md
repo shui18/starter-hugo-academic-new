@@ -1,11 +1,9 @@
 ---
 title: "Stability Analysis for Explicit ERKN Methods Solving General Second-Order Oscillatory Systems"
 authors:
-- admin
-- Ting Fu and Wei Shi
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- Kai Liu
+- admin 
+- Wei Shi
 date: "2021-07-03T00:00:00Z"
 doi: "10.1007/s40840-021-01150-7"
 
