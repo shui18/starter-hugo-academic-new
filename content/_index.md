@@ -23,6 +23,11 @@ sections:
     design:
       columns: '2'
       view: citation 
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
       # Contact (add or remove contact options as necessary)
       email: 13477000139@163.com      
       # Automatically link email and phone or display as text?
