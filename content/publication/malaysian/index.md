@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://sci-hub.se/10.1007/s40840-021-01150-7
+url_pdf: uploads/malays.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
